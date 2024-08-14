@@ -1,5 +1,5 @@
 <template>
-  <h2>Hello, VueJS APP 555!!!</h2>
+  <h2>Hello, VueJS APP 777!!!</h2>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
