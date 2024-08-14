@@ -1,5 +1,4 @@
 <template>
-  <h2>Hello, VueJS App!!!</h2>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
